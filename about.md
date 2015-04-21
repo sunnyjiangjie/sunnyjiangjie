@@ -10,4 +10,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:sunnyjiangjie@foxmail.com)
+[sunnyjiangjie@foxmail.com](mailto:sunnyjiangjie@foxmail.com)
