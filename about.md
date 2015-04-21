@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+江杰，包装工程师，主要涉及工业运输包装，对互联网有兴趣，希望通过互联网改变包装行业信息阻塞的现状。
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+希望和同行多交流！
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sunnyjiangjie@foxmail.com](mailto:sunnyjiangjie@foxmail.com)
